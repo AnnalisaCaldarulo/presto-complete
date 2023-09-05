@@ -1,0 +1,37 @@
+.height {
+    height: 93vh;
+}
+
+.img-preview {
+    height: 300px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.yes {
+    color: green;
+}
+
+.no {
+    color: red;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.margin{
+    margin-top: 70px;
+}
